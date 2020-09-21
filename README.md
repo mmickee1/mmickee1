@@ -1,4 +1,7 @@
-### Hi there 👋
+[![Mmickee1's github stats](https://github-readme-stats.vercel.app/api?username=mmickee1&show_icons=true&line_height=21&show_icons=true&theme=algolia&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmickee1&show_icons=true&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://komarev.com/ghpvc/?username=mmickee1&color=blue&style=flat-square" align="right" />
 
 <!--
 **mmickee1/mmickee1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
